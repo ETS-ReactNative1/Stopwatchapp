@@ -15,7 +15,7 @@ Header: This component defines how the Stop watch logo will look. <br />
 Result: This component takes care of calculating how the clock should run and how the result has to be calculated. <br />
 Stopwatch: This component combines everyother component, and uses it develor the ui of the stopwatch app. <br />
 Utility: This defines on how the numbers should display on the screen. <br />
-Contributions: <br />
+### Contributions: <br />
 Arun Prasath did Control and Header part. <br />
 Sai Rashwant did Result, stopwatch and utility. <br />
 ### Screenshots: <br />
