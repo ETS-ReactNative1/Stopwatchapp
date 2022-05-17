@@ -18,5 +18,5 @@ Utility: This defines on how the numbers should display on the screen. <br />
 Contributions: <br />
 Arun Prasath did Control and Header part. <br />
 Sai Rashwant did Result, stopwatch and utility. <br />
-Screenshots: <br />
+### Screenshots: <br />
  ![](ss/stopwatch.png)
