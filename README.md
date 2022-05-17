@@ -19,4 +19,4 @@ Contributions: <br />
 Arun Prasath did Control and Header part. <br />
 Sai Rashwant did Result, stopwatch and utility. <br />
 Screenshots: <br />
- ![](ss/ss)
+ ![](ss/stopwatch.png)
