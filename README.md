@@ -20,3 +20,5 @@ Arun Prasath did Control and Header part. <br />
 Sai Rashwant did Result, stopwatch and utility. <br />
 ### Screenshots: <br />
  ![](ss/stopwatch.png)
+ 
+### Full report uploaded inside "Documentation Folder" and for the DEMO VIDEO download " Demo working.mov " file!
