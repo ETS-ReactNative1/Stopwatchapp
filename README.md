@@ -1,6 +1,6 @@
 # Stopwatch app <br />
 ## By V.S.Sai Rashwant(20BCE1332) & B.ARUN PRASATH(20BRS1080) <br />
-	
+### Full report uploaded inside "Documentation Folder" and for the DEMO VIDEO download " Demo of working.mov " file!
 Application Design: <br />
 	We are making a stopwatch application using react native expo. <br />
 	We have 5 components. <br />
@@ -21,4 +21,4 @@ Sai Rashwant did Result, stopwatch and utility. <br />
 ### Screenshots: <br />
  ![](ss/stopwatch.png)
  
-### Full report uploaded inside "Documentation Folder" and for the DEMO VIDEO download " Demo working.mov " file!
+
